@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">ChatHop</string>
+    <string name="default_web_client_id">AIzaSyCr7yef_fjxIWST6p4P8B2Xv3g-VALpXl0</string>
+    <string name="hello_blank_fragment" translatable="false">hello_blank_fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>

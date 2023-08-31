@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "305172977519",
+    "firebase_url": "https://what-s-up-by-rishabh-default-rtdb.firebaseio.com",
+    "project_id": "what-s-up-by-rishabh",
+    "storage_bucket": "what-s-up-by-rishabh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305172977519:android:cb3082c18c7b6a0bf13a9a",
+        "android_client_info": {
+          "package_name": "com.example.mylibrary.chathop.pvsrishabh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305172977519-ucufofb35or45ag0tt0kcqfruuodnceg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mylibrary.chathop.pvsrishabh",
+            "certificate_hash": "4ed341239301158befd0ca0771cef3713f67e663"
+          }
+        },
+        {
+          "client_id": "305172977519-i6d6ah27h5vjum2fjuefj3e38anc7opu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr7yef_fjxIWST6p4P8B2Xv3g-VALpXl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305172977519-i6d6ah27h5vjum2fjuefj3e38anc7opu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
